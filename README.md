@@ -1,0 +1,1 @@
+NewsCategorizer is a deep learning-based news category prediction system that uses word embeddings to classify news articles into predefined categories. The system leverages pre-trained word embeddings and a neural network architecture to learn the semantic relationships between words and categories.
